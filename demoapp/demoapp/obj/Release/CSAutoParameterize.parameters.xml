@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-demoapp-20180714101451.mdf;Initial Catalog=aspnet-demoapp-20180714101451;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\rahulvaish\\documents\\visual\ studio\ 2015\\Projects\\demoapp\\demoapp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="LocalDatabaseConnectionString1-Web.config Connection String" description="LocalDatabaseConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=sqldbinstance.czqdjprmowpu.us-east-2.rds.amazonaws.com;Initial Catalog=LocalDatabase;Persist Security Info=True;User ID=awsadmin;Password=awsadmin" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\rahulvaish\\documents\\visual\ studio\ 2015\\Projects\\demoapp\\demoapp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LocalDatabaseConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>

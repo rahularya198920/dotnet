@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Simple Web app</h3>
+    <h3>Simple Web app Append to test auto deploy</h3>
     <p>To demonstration automation demonstration</p>
 </asp:Content>

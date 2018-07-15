@@ -10,7 +10,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h3>Lets Populate some data from AWS database </h3>
+            <h3>Let's Populate some data from AWS RDS database </h3>
             <p>
                 We need to configure security setting in Both RDS and Azure to talk to each other</p>
             <p>

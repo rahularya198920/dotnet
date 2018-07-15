@@ -7,7 +7,7 @@
         Krakow<br />
         Poland<br />
         <abbr title="Phone">P:</abbr>
-        791.254.753</address>
+       +48791254753</address>
 
     <address>
         <strong>Support:</strong>   <a href="mailto:rahularya198920@gmail.com">rahularya198920@gmail.com</a><br />
